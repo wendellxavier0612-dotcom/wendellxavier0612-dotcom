@@ -2,11 +2,11 @@
 
 📍 Balneário Camboriú, SC
 
-Estudante de programação, aprendendo lógica e Programação Orientada a Objetos (POO) através de projetos práticos na [Alura](https://www.alura.com.br/).
+Foco em **Python**, lógica e análise de programação — construindo uma base sólida em fundamentos, estruturas de dados e Programação Orientada a Objetos (POO) através de projetos práticos.
 
-## 🚀 Atualmente estudando
+## 🚀 Áreas de foco
 
-- **Python** — fundamentos, funções (incluindo `lambda`), recursão, manipulação de listas e strings, e agora avançando em **Programação Orientada a Objetos** (classes, encapsulamento, `@property`, `@classmethod`, `@staticmethod`)
+- **Python** — fundamentos, funções (incluindo `lambda`), recursão, manipulação de listas e strings, e Programação Orientada a Objetos (classes, encapsulamento, `@property`, `@classmethod`, `@staticmethod`)
 - **JavaScript** — lógica de programação e manipulação do DOM
 
 ## 🛠️ Tecnologias
@@ -18,8 +18,11 @@ Estudante de programação, aprendendo lógica e Programação Orientada a Objet
 
 ## 📌 Projetos em destaque
 
+### 🧩 [poo-python-alura](https://github.com/wendellxavier0612-dotcom/poo-python-alura)
+Estudos de Programação Orientada a Objetos em Python: classes, encapsulamento, `property`, `classmethod`, `staticmethod` e organização em pacotes.
+
 ### 🐍 [desafios-alura-python](https://github.com/wendellxavier0612-dotcom/desafios-alura-python)
-Coleção de 17+ exercícios e desafios de Python: calculadora com lambda, validador de CPF, gerador de senha segura, gerenciador de tarefas, funções recursivas, e mais.
+Coleção de 30+ exercícios e desafios de Python: calculadora com lambda, validador de CPF, gerador de senha segura, gerenciador de tarefas, funções recursivas, e mais.
 
 ### 🔢 [jogo-do-numero-secreto](https://github.com/wendellxavier0612-dotcom/jogo-do-numero-secreto)
 Jogo de adivinhação em JavaScript com manipulação de DOM e lógica condicional. [Deploy ao vivo »](https://jogo-phi-teal.vercel.app)
