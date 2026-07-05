@@ -30,6 +30,8 @@ Estrutura visual (HTML/CSS) que deu origem ao jogo do número secreto — a base
 ## 📫 Como me encontrar
 
 - GitHub: [@wendellxavier0612-dotcom](https://github.com/wendellxavier0612-dotcom)
+- LinkedIn: [Wendell Xavier](https://www.linkedin.com/in/wendell-xavier-b656253a1)
+- Instagram: [@xavyerwendell](https://instagram.com/xavyerwendell)
 
 ---
 ⭐ Em constante evolução — sempre estudando e construindo novos projetos.
